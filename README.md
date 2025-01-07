@@ -31,4 +31,6 @@ Here’s my current tech stack:
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Emma%20Lanza-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-lanza-m/)
 - **Email:** [emmalanza@hotmail.com](mailto:emmalanza@hotmail.com)
 
+---
+
 Thanks for visiting my profile. 😊
