@@ -1,32 +1,42 @@
 
 ![banner-emma](https://github.com/user-attachments/assets/863435a7-1b66-4b01-b8c8-4d134d930701)
 
-### 🚀 About Me  
-Hi there! I’m **Emma**, a **Junior Full Stack Developer**.  
-🌱 Currently learning new tools and methodologies at the **F5 Full Stack Bootcamp**.
-
----
-
-### 👩🏻‍💻 Technologies and Tools
-
-Here’s my current tech stack:
-
-#### 💅🏽 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+# ✨ About Me:
+Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning new tools and methodologies at the F5 Full Stack Bootcamp.
 
 
-#### ⚙️ Backend  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emma-lanza-089861150/) 
 
-#### 🛠 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat) 
+# 💻 Tech Stack:
 
----
+## 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-### 📫 Connect with Me
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Emma%20Lanza-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-lanza-m/)
-- **Email:** [emmalanza@hotmail.com](mailto:emmalanza@hotmail.com)
+## ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=database&logoColor=white)
 
----
+## 🛢️ Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-Thanks for visiting my profile. 🥰
+## 🎨 Diseño y Productividad
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emmalanza&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emmalanza&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmalanza&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## ☕️ You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/emmalanza) 
