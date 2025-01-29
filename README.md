@@ -1,7 +1,7 @@
 
 ![banner-emma](https://github.com/user-attachments/assets/863435a7-1b66-4b01-b8c8-4d134d930701)
 
-# ✨ About Me:
+# ✨ About me:
 Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning new tools and methodologies at the F5 Full Stack Bootcamp.
 
 
@@ -37,6 +37,8 @@ Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning ne
 ![](https://github-readme-stats.vercel.app/api?username=emmalanza&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emmalanza&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmalanza&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+------------
 
 ## ☕️ You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/emmalanza) 
