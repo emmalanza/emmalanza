@@ -6,7 +6,7 @@ Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning ne
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emma-lanza-089861150/) 
+![LinkedIn](https://img.shields.io/badge/linkedin-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 # 💻 Tech Stack:
 
