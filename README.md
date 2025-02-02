@@ -5,7 +5,7 @@
 Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning new tools and methodologies at the F5 Full Stack Bootcamp.
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emma-lanza-m/)
 
 # 💻 Tech Stack:
 
