@@ -13,10 +13,10 @@ Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning ne
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,astro,tailwindcss)](https://skillicons.dev)
 
 ## ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,mysql)](https://skillicons.dev)
 
 ## 🛢️ Herramientas de Desarrollo
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,figma)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emmalanza&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
