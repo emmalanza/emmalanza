@@ -15,7 +15,7 @@ Hi there! I'm Emma, a Junior Full Stack Developer 🌱.<br>Currently learning ne
 ## ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,spring,mysql)](https://skillicons.dev)
 
-## 🛢️ Herramientas de Desarrollo
+## 🛢️ Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,figma)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
